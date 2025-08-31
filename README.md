@@ -162,8 +162,6 @@ npm run dev
 ### User Features
 - **Live Auction Interface**
   - Real-time bidding updates
-  - Player countdown timers
-  - Bid history tracking
 
 - **Team Dashboard**
   - View team composition
